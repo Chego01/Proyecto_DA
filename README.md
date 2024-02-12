@@ -51,17 +51,17 @@ Como último paso para el tratamiento de los datos se busco reemplazar SD por va
 
 -`Análisis de lugares con mayor incidencia a accidentes de tránsito:` 
 En el transcurso del tiempo, se halla una alta tendencia en los accidentes de tránsito con víctimas fatales a desarrollarse en lugares como las avenidas, esto puede suponerse a una mala señalización por la zona debido a la alta confluencia vehicular, teniendo como principales partes **auto-peaton**
-![Distribución](images\dist_calle.png)
+![Distribución](images/dist_calle.png)
 
 -`Análisis de edad participativos:` 
 Se presenta en la gráfica una clara diferencia de personas participes en accidentes de tránsito siendo la de mayor influencia la de genero masculino en el rango de edades de 21-30 y el segundo de 31-40 esto a lo mejor se debe a una mayor población masculina por la zona 
-![Distribuxión](images\Dist_edad.png)
+![Distribuxión](images/Dist_edad.png)
 
 ### Indicadores de Rendimiento Clave KPI
 
 Una vez finalizado el Análisis Exploratorio, se utiliza el dataset resultante [Homicidios](EDA\Datasets\data_homicidios.csv); para trabajar en la herramienta de visualización de datos PowerBI a fin de obtener los KPI (Indicadores de Rendimiento Clave) y un `dashboard` de presentación del informe y Visualización de datos.
 
-![KPI](images\kpi.png)
+![KPI](images/kpi.png)
 
  - **Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
 
